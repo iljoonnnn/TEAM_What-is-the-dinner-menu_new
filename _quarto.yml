@@ -8,8 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: presentation 0.qmd
-        text: presentaion 0
+      - presentation 0.qmd
       - about.qmd
 
 format:

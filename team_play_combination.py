@@ -78,7 +78,7 @@ market_pop['pct_under20'] = round(market_pop['under20'] / market_pop['total_pop'
 market_pop['pct_2050'] = round(market_pop['2050'] / market_pop['total_pop'] * 100, 2)
 market_pop['pct_over60'] = round(market_pop['over60'] / market_pop['total_pop'] * 100, 2)
 
-market_pop['pct_over60_mean'] = np.where(market_pop['ptc_over60'] >= market_pop['ptc_over60'].mean(),
+market_pop['pct_over60_mean'] = np.where(market_pop['pct_over60'] >= market_pop['pct_over60'].mean(),
                               'UP', 'DOWN') # 60대 이상 비율의 평균을 구한 뒤 그것보다 높거나 낮다는것 표시.
 
 market_pop['pop_per_market'] = round(market_pop['total_pop'] / market_pop['market_count'], 1) #인구 수 / 시장 수, 소숫점 정리.

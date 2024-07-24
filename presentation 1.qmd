@@ -175,6 +175,12 @@ pop_region = pop[['region', 'total_pop', 'under20', '2050', 'over60']]
 market_pop = pd.merge(market_region, pop_region, how='left', on='region')
 ```
 
+## merge 결과
+```{python}
+market_pop.head()
+```
+
+
 ## 
 
 # 지역별 데이터 프레임에 파생 변수 추가하기 1

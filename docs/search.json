@@ -117,5 +117,12 @@
     "title": "presentation 1",
     "section": "(온누리 상품권을 사용하는 시장 수)",
     "text": "(온누리 상품권을 사용하는 시장 수)\n\nmarket_pop['pct_certificate'] = \\\n round(market_pop['certificate_count'] / market_pop['market_count'] *100, 1)\n\n\nmarket_pop.head()\n\n\n\n\n\n\n\n\nregion\nmarket_count\nstore_sum\ncertificate_count\ntotal_pop\nunder20\n2050\nover60\npct_under20\npct_2050\npct_over60\nold_per_market\nold_per_store\nover60_mean_updown\npct_certificate\n\n\n\n\n0\n강원도\n58\n6811\n54\n1549507\n294348\n894249\n360910\n19.0\n57.7\n23.3\n6222.6\n53.0\nUP\n93.1\n\n\n1\n경기도\n130\n18977\n121\n12522606\n2730973\n7878980\n1912653\n21.8\n62.9\n15.3\n14712.7\n100.8\nDOWN\n93.1\n\n\n2\n경상남도\n155\n18156\n102\n3364702\n702154\n2004453\n658095\n20.9\n59.6\n19.6\n4245.8\n36.2\nUP\n65.8\n\n\n3\n경상북도\n149\n16582\n106\n2702826\n500721\n1544234\n657871\n18.5\n57.1\n24.3\n4415.2\n39.7\nUP\n71.1\n\n\n4\n광주광역시\n26\n3411\n25\n1472199\n340705\n895137\n236357\n23.1\n60.8\n16.1\n9090.7\n69.3\nDOWN\n96.2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "안녕하세요.\n“오늘 저녁 밥 뭘까?” 팀 페이지입니다.\n조원: 이태현, 장일준, 정아영, 정은서"
   }
 ]

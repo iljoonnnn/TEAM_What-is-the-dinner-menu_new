@@ -124,5 +124,12 @@
     "title": "Home",
     "section": "",
     "text": "안녕하세요.\n“오늘 저녁 밥 뭘까?” 팀 페이지입니다.\n조원: 이태현, 장일준, 정아영, 정은서"
+  },
+  {
+    "objectID": "presentation 1.html#merge-결과",
+    "href": "presentation 1.html#merge-결과",
+    "title": "presentation 1",
+    "section": "merge 결과",
+    "text": "merge 결과\n\nmarket_pop.head()\n\n\n\n\n\n\n\n\nregion\nmarket_count\nstore_sum\ncertificate_count\ntotal_pop\nunder20\n2050\nover60\n\n\n\n\n0\n강원도\n58\n6811\n54\n1549507\n294348\n894249\n360910\n\n\n1\n경기도\n130\n18977\n121\n12522606\n2730973\n7878980\n1912653\n\n\n2\n경상남도\n155\n18156\n102\n3364702\n702154\n2004453\n658095\n\n\n3\n경상북도\n149\n16582\n106\n2702826\n500721\n1544234\n657871\n\n\n4\n광주광역시\n26\n3411\n25\n1472199\n340705\n895137\n236357"
   }
 ]
